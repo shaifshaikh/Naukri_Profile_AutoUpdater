@@ -45,3 +45,9 @@ session persists.
 
 This is a personal automation tool for your own Naukri account.
 Use responsibly and in line with Naukri's terms of service.
+
+
+
+## Need Open Source Contributors for the below task
+For the future scope of this solution, the system can be enhanced to include an automated job discovery and application mechanism. This would involve integrating with Neo AI APIs to periodically check for relevant job openings based on predefined criteria such as role (e.g., .NET Developer, MVC, .NET Core) and preferred locations (Mumbai, Andheri, Airoli, Thane, etc.). The system can intelligently parse resume data and Naukri profile details to auto-fill application forms and respond to standard screening questions (such as willingness to relocate, years of experience, and other basic eligibility criteria). Additionally, location-based filtering can be applied to ensure that only jobs within preferred locations are marked positively. Once suitable jobs are identified, the system can automatically apply to them while maintaining a log of applications submitted. This enhancement would significantly reduce manual effort and improve efficiency in job search and application processes. Further implementation details, including API endpoint access and integration workflow for Neo AI, can be incorporated based on shared documentation.
+
