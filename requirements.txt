@@ -1,0 +1,5 @@
+selenium==4.27.1
+webdriver-manager==4.0.2
+schedule==1.2.2
+colorama==0.4.6
+pyinstaller==6.11.1

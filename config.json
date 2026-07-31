@@ -1,0 +1,12 @@
+{
+    "update_interval_minutes": 0.5,
+    "resume_path":"enter resume path.pdf",
+    "browser": "chrome",
+    "browser_user_data_dir": "chromepath\\Google\\Chrome\\User Data",
+    "browser_profile": "Default",
+    "headless": false,
+    "max_retries": 3,
+    "retry_delay_seconds": 5,
+    "screenshot_on_failure": true,
+    "log_file": "naukri_updater.log"
+}
